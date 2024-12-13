@@ -23,8 +23,6 @@ Full-stack application for EVE Online gameplay analytics
 [Explore](https://github.com/tadeasf/eve-ran-monorepo)
 `typescript` `react` `node.js` `mongodb`
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tadeasf&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadeasf&theme=tokyonight" alt="GitHub Streak" />

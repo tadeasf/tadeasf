@@ -25,12 +25,6 @@ Full-stack application for EVE Online gameplay analytics
 [Explore](https://github.com/tadeasf/eve-ran-monorepo)
 `typescript` `react` `node.js` `mongodb`
 
-## 📷 Photography
-
-Beyond code, I'm passionate about photography. Check out my work:
-- [Professional Portfolio](https://tadeasfort.com)
-- [Photo Portfolio](https://portfolio.tadeasfort.com)
-
 ## 📊 GitHub Stats
 
 <div align="center">

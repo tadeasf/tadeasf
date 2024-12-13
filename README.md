@@ -23,10 +23,14 @@ Full-stack application for EVE Online gameplay analytics
 [Explore](https://github.com/tadeasf/eve-ran-monorepo)
 `typescript` `react` `node.js` `mongodb`
 
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tadeasf&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadeasf&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tadeasfort.com)

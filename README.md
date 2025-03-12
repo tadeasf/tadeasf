@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF4&center=true&vCenter=true&width=435&lines=Senior+Software+Engineer+@+Kiwi.com;TypeScript+Enthusiast;Golang+Advocate;Python+Aficionado" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF4&center=true&vCenter=true&width=1000&lines=Impersonating+a+software+engineer+since+2021" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me

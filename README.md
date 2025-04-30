@@ -18,10 +18,10 @@ AI-powered CLI tool enhancing neovim workflow
 [View Project](https://github.com/tadeasf/ollama-nvim-cli)
 `python` `AI` `CLI` `neovim`
 
-### 🎮 EVE Online Kill Tracker
-Full-stack application for EVE Online gameplay analytics
-[Explore](https://github.com/tadeasf/eve-ran-monorepo)
-`typescript` `react` `node.js` `mongodb`
+### 🎮 Caddy-Cloudflare CLI
+Utility simplifying deployments of self-hosted products
+[Explore](https://github.com/tadeasf/caddy_cloudflare_cli)
+`python` `caddy` `cloudflare`
 
 ---
 

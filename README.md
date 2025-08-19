@@ -8,24 +8,20 @@ I found coding a little later in life while doing my masters. I haven't finished
 
 ## Featured Projects
 
-### Caddy-Cloudflare CLI
+### [Caddy-Cloudflare CLI](https://github.com/tadeasf/caddy_cloudflare_cli)
 Utility simplifying deployments of self-hosted products
-[Explore](https://github.com/tadeasf/caddy_cloudflare_cli)
 `python` `caddy` `cloudflare`
 
-### Nest.JS scraping API
+### [Nest.JS scraping API](https://github.com/tadeasf/nest-scraping-api)
 A robust NestJS application for scraping news articles from popular Czech news websites. Built with enterprise-grade logging, comprehensive testing, and automated CI/CD pipeline.
-[View Project](https://github.com/tadeasf/nest-scraping-api)
 `typescript` `Nest.JS` `API` `scraping`
 
-### Mermaid to PNG
+### [Mermaid to PNG](https://github.com/tadeasf/mermaid2png)
 Convert .mdd mermaid charts to png files
-[Check it out](https://github.com/tadeasf/mermaid2png)
 `typescript` `mermaid` `CLI`
 
-### RSS Feed Manager
+### [RSS Feed Manager](https://github.com/tadeasf/rss-feed-public)
 A Next.js application powering self-hosted streaming platforms
-[Check it out](https://github.com/tadeasf/rss-feed-public)
 `typescript` `next.js` `docker` `bun`
 
 ---

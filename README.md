@@ -8,20 +8,25 @@ I found coding a little later in life while doing my masters. I haven't finished
 
 ## Featured Projects
 
-### RSS Feed Manager
-A Next.js application powering self-hosted streaming platforms
-[Check it out](https://github.com/tadeasf/rss-feed-public)
-`typescript` `next.js` `docker` `bun`
-
-### Ollama Nvim CLI
-AI-powered CLI tool enhancing neovim workflow
-[View Project](https://github.com/tadeasf/ollama-nvim-cli)
-`python` `AI` `CLI` `neovim`
-
 ### Caddy-Cloudflare CLI
 Utility simplifying deployments of self-hosted products
 [Explore](https://github.com/tadeasf/caddy_cloudflare_cli)
 `python` `caddy` `cloudflare`
+
+### Nest.JS scraping API
+A robust NestJS application for scraping news articles from popular Czech news websites. Built with enterprise-grade logging, comprehensive testing, and automated CI/CD pipeline.
+[View Project](https://github.com/tadeasf/nest-scraping-api)
+`typescript` `Nest.JS` `API` `scraping`
+
+### Mermaid to PNG
+Convert .mdd mermaid charts to png files
+[Check it out](https://github.com/tadeasf/mermaid2png)
+`typescript` `mermaid` `CLI`
+
+### RSS Feed Manager
+A Next.js application powering self-hosted streaming platforms
+[Check it out](https://github.com/tadeasf/rss-feed-public)
+`typescript` `next.js` `docker` `bun`
 
 ---
 

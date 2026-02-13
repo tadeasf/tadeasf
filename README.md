@@ -4,12 +4,6 @@ I found coding a little later in life while doing my masters. I haven't finished
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tadeasf&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
----
-
 ## Featured Projects
 
 ### [Nest.JS scraping API](https://github.com/tadeasf/nest-scraping-api)

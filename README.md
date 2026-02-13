@@ -12,17 +12,9 @@ I found coding a little later in life while doing my masters. I haven't finished
 
 ## Featured Projects
 
-### [Caddy-Cloudflare CLI](https://github.com/tadeasf/caddy_cloudflare_cli)
-Utility simplifying deployments of self-hosted products
-`python` `caddy` `cloudflare`
-
 ### [Nest.JS scraping API](https://github.com/tadeasf/nest-scraping-api)
 A robust NestJS application for scraping news articles from popular Czech news websites. Built with enterprise-grade logging, comprehensive testing, and automated CI/CD pipeline.
 `typescript` `Nest.JS` `API` `scraping`
-
-### [Mermaid to PNG](https://github.com/tadeasf/mermaid2png)
-Convert .mdd mermaid charts to png files
-`typescript` `mermaid` `CLI`
 
 ### [RSS Feed Manager](https://github.com/tadeasf/rss-feed-public)
 A Next.js application powering self-hosted streaming platforms

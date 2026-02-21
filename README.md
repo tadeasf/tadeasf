@@ -5,18 +5,6 @@ Recently I've begun new chapter at Albert. I do like to build pro bono when I ca
 
 ---
 
-## Featured Projects
-
-### [PSP.cz Analyzer](https://github.com/tadeasf/pspcz_analyzer)
-Czech Parliamentary Voting Analyzer — an OSINT tool that downloads, parses, and visualizes open voting data from the Czech Chamber of Deputies. Built with FastAPI, Polars, and HTMX.
-`python` `FastAPI` `scraping`
-
-### [RSS Feed Manager](https://github.com/tadeasf/rss-feed-public)
-A Next.js application powering self-hosted streaming platforms
-`typescript` `next.js` `docker` `bun`
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tadeasf&color=blue&style=flat-square" alt="Profile views" />
 </div>
